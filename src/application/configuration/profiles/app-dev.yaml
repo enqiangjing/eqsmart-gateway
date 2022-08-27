@@ -1,0 +1,9 @@
+eqlink:
+  ip: 127.0.0.1
+  port: 7800
+  buf_size: 102400
+  backlog: 5
+
+http:
+  port: 7001
+  host: 0.0.0.0
